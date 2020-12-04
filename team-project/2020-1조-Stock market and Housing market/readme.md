@@ -12,5 +12,6 @@ Rawdata 사용(Github 업로드)\
 금리, 통화량, 주택담보대출, 부동산심리
 
 ## 분석방법
-## 발표
-
+Unit root test\
+Cointegration test\
+Granger causality\
