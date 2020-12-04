@@ -14,4 +14,4 @@ Rawdata 사용(Github 업로드)\
 ## 분석방법
 Unit root test\
 Cointegration test\
-Granger causality\
+Granger causality
